@@ -1,0 +1,2 @@
+Have users enter a goal.
+Read SC2 replay files.
